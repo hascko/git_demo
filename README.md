@@ -1,2 +1,3 @@
 # git_demo
-Demo de git
+Demo de git qui se passe tres bien.
+information supplementaire
